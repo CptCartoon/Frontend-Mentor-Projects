@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: [(https://your-live-site-url.com)](https://cptcartoon.github.io/Newsletter-Sign-up-FrontendMentorChallenge/)
 
 ### Built with
 
